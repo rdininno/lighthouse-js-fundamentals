@@ -7,3 +7,4 @@ function makeLine(length) {
 }
 
 console.log(makeLine(7));
+
